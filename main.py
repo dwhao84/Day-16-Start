@@ -1,6 +1,7 @@
 from turtle import Turtle, Screen
 import another_module
 
+
 print(another_module.another_module) # Should be 12
 
 # Constructing the OBJECT:
@@ -21,3 +22,5 @@ print(my_screen.canvheight) # Show 300.
 # exitonclick是一個method。
 # 點擊畫面之後，畫面就是消逝。
 my_screen.exitonclick()
+
+
